@@ -1,0 +1,45 @@
+{
+  "01": {
+    "key": -351868807,
+    "operation": "Insert"
+  },
+  "02": {
+    "key": -356550470,
+    "operation": "Insert"
+  },
+  "03": {
+    "key": -309007790,
+    "operation": "Insert"
+  },
+  "04": {
+    "key": 1815929801,
+    "operation": "Insert"
+  },
+  "05": {
+    "key": -884041772,
+    "operation": "Insert"
+  },
+  "06": {
+    "key": -4159413,
+    "operation": "Insert"
+  },
+  "07": {
+    "key": -213353532,
+    "operation": "Insert"
+  },
+  "08": {
+    "key": -1830968278,
+    "operation": "Insert"
+  },
+  "09": {
+    "key": 710081041,
+    "operation": "Insert"
+  },
+  "10": {
+    "key": -863241493,
+    "operation": "Insert"
+  },
+  "metadata": {
+    "numOps": 10
+  }
+}

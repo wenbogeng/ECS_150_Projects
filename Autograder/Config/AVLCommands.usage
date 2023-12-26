@@ -1,0 +1,4 @@
+./AVLCommands.exe TestCases/TestCase$i.AVLCommands.json
+TestCaseSubmissions/TestCase$i.AVLCommands.submission
+./AVLCommands.grader TestCaseSolutions/TestCase$i.AVLCommands.solution TestCaseSubmissions/TestCase$i.AVLCommands.submission
+100 points

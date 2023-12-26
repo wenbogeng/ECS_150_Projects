@@ -1,0 +1,64 @@
+{
+  "-1830968278": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -884041772
+  },
+  "-213353532": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -309007790
+  },
+  "-309007790": {
+    "balance factor": 1,
+    "height": 1,
+    "parent": -4159413,
+    "right": -213353532
+  },
+  "-351868807": {
+    "balance factor": 0,
+    "height": 3,
+    "left": -884041772,
+    "right": -4159413,
+    "root": true
+  },
+  "-356550470": {
+    "balance factor": -1,
+    "height": 1,
+    "left": -863241493,
+    "parent": -884041772
+  },
+  "-4159413": {
+    "balance factor": 0,
+    "height": 2,
+    "left": -309007790,
+    "parent": -351868807,
+    "right": 1815929801
+  },
+  "-863241493": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": -356550470
+  },
+  "-884041772": {
+    "balance factor": 1,
+    "height": 2,
+    "left": -1830968278,
+    "parent": -351868807,
+    "right": -356550470
+  },
+  "1815929801": {
+    "balance factor": -1,
+    "height": 1,
+    "left": 710081041,
+    "parent": -4159413
+  },
+  "710081041": {
+    "balance factor": 0,
+    "height": 0,
+    "parent": 1815929801
+  },
+  "height": 3,
+  "root": -351868807,
+  "size": 10
+}
